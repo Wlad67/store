@@ -1,0 +1,121 @@
+html, body {
+	margin: 0;
+	padding: 0;
+    background-color: whitesmoke;
+}
+h1, ul, li, a, div, p {
+	margin: 0;
+	padding: 0;
+	color: #000;
+	list-style: none;
+	text-decoration: none;
+}
+h2 {
+	line-height: 30px;
+	margin-left: 50px;
+}
+.header {
+	background-color: #fff;
+	overflow: auto;
+}
+.header .logo {
+	color: #000;
+	display: inline-block;
+	padding: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.mainlogo{
+    width: 200px;
+}
+
+b{
+    color:rgb(27, 228, 104);
+}
+.real{
+    color: rgb(182, 0, 0);
+    line-height: 45px;
+    font-size: 24px;
+    margin-left: 100px;
+}
+#expo{
+    margin-left:400px;
+    color: rgb(182, 0, 0);
+    font-size: 24px;
+    line-height: 70px;
+}
+.header .menu {
+	float: right;
+}
+.header .menu li {
+	display: inline-block;
+	padding: 15px;
+}
+.header .menu li a {
+	font-size: 15px;
+	color: #000;
+	text-transform: uppercase;
+	transition: all 0.3s;
+}
+.header .menu li a:hover {
+	background-color: rgb(216, 255, 212);
+	color: rgb(90, 1, 1);
+	padding: 30px;
+}
+.pala{
+	font-size: 18px;
+	line-height: 40px;
+	margin-left: 40px;
+	margin-right: 25px;
+	margin-top: 15px;
+}
+#tit {
+	line-height: 50px;
+    margin-left: 75px;
+    margin-top: 24px;
+}
+.chs{
+    font-size: 25px;
+    line-height: 50px;
+    margin-left: 45px;
+    margin-top: 24px;
+}
+.boo{font-size: 23px;}
+
+.img{
+    width: 200px;
+    border: 1px solid  #030507;
+    
+}
+.comps{
+    margin-left: 20px;
+}
+.tv{
+    margin:20px;
+}
+.myst :hover{
+    width: 300px;
+    transition: all 0.1s;
+}
+.btn1{
+    color: rgb(24, 10, 218);
+    margin: 70px;
+    font-size: 25px;
+}
+.btn2{
+    color: rgb(24, 10, 218);
+    margin: 40px;
+    font-size: 25px;
+}
+
+.place{
+    width: 230px;
+    margin-left:40px;
+}
+.regs{
+    font-size: 30px;
+    margin-left:70px;
+}
+.reg{
+    float:left;
+}
